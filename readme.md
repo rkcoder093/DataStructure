@@ -6,4 +6,4 @@
 
 
 
-**Note** ###i will be greatfull if you provide me the questions and help me with my DSA journy 
+**Note** I will be greatfull if you provide me the questions and help me with my DSA journy 
