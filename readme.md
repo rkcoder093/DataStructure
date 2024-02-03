@@ -1,4 +1,3 @@
----
 1. **Write a function to reverse a given string**
 2. **Implement a function to find the maximum element in an aray.**
 3. **Write a recursive function to calculate the factorial of a number.**
@@ -14,10 +13,11 @@
 13. print name n time using resursion
 14. print 1 to N using recursion
 15. print N to 1 using recursion
-16. print first N numbers using recursion
-17. print reverse an array using recursion
-17. print string is palendrome or not using recursion
-17. print fabonacci number using recursion
+16. print sum of first N numbers using recursion
+17. print factorial of n number
+18. print reverse an array using recursion
+19. print string is palendrome or not using recursion
+20. print fabonacci number using recursion
 
 
 **Note** I will be greatfull if you provide me the questions and help me with my DSA journy p
