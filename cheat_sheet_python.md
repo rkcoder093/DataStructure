@@ -1,4 +1,66 @@
 # **Cheat Sheet for PYTHON for DSA**
+*input in python -* `input()`
+
+*output in python -* `print(sub=?, end=?, flush=?)`
+****
+### **Data types**
+1. *int - integer*
+2. *float -  decimal value*
+3. *complex -  for complex number eg 2i+4j*
+4. *bool - for boolean values*
+5. *str - string or character*
+6. *List - for store multiple data*
+7. *sets - diffrent type of but but not copied one*
+8. *tuples - collections of data it store*
+9. *dictonary - stor the data in key and value pair*
+10. *None - it is null value*
+****
+### **if-else statement**
+    if (condition):
+        //Statements
+    elif(condition):
+        //statement
+    else:
+        //statement
+### **Switch Case**
+    swithch(condition):
+        //Statements
+    case1(condition):
+        //statement
+    case2(condition):
+        //statement
+    case3(condition):
+        //statement
+        Break
+    case4(condition):
+        //statement
+    default:
+        //statement
+****
+### Loops
+*for Loop*
+
+    for i in sequence:
+        //Statement
+
+*while Loop*
+
+    while(condition):**
+        //Statement
+        //Statement to break the loop
+*****
+*Functions*
+    
+    def <function_name>(): -> None
+        //statements
+****
+**Time Complexity**
+*The rate at which the time, required to run a code, changes with respect to the input size, is considered the time complexity.*
+
+**Space Complexity**
+*the memory space that a code uses while being executed.*
+****
+
 
 **Lists** - *List is an collection of multiple datatype it can be multiple is it can not be,it is accesable by the indexing as left to right it is start from 0 and from right to left it start from -1. <u>list is mutable.</u> Creating the list the square bracker **[ ]***
 
@@ -97,4 +159,4 @@ view object that displays a list of tuples containing the key-value pairs `items
 - `print(a)`
 - output - `bytearray(b'\x0c\x08\x19\x02')`
 
-**LinkedList:**  **
+### Hashing 
