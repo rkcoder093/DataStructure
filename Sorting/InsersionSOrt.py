@@ -2,17 +2,14 @@
 def insersionSort(arr):
     for i in range(0,len(arr)):
         j = i
-        print(i)
-        while ((j > 0) and (arr[j-1] > arr[j])):
-            (arr[j], arr[j-1])=(arr[j-1] , arr[j])
-            j -=1
-            print(j,f'{arr[j]} {arr[j-1]}', sep=":")
-        print()
+        while (j > 0 and int(arr[j-1]) > int(arr[j])):
+            (arr[j-1] , arr[j]) = (arr[j], arr[j-1])
+            j = j-1
     return arr
 
 input = open('sorting/input.txt','r')
 array = input.read().split()
-
+print(array)
 sorted_array = insersionSort(array)
 
 output = open('sorting/output.txt','w')

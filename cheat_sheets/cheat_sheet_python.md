@@ -162,8 +162,3 @@ view object that displays a list of tuples containing the key-value pairs `items
 ### Hashing 
 
 *Hashing is nothing but the two steps invilved in it first is pre-storing by hashing and another is fetching.*
-
-***Types of sorting ***
-`Selecion Sort`
-`Bubble Sort`
-`insersion sort`
